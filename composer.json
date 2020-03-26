@@ -1,0 +1,21 @@
+{
+    "name": "laravel/laravel-test",
+    "description": "laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "下一秒钟见你",
+            "email": "1551440711@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laravel\\laravel\\": "src/Laravel/laravel"
+        }
+    }
+}
