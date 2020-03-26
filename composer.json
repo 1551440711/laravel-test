@@ -1,7 +1,7 @@
 {
     "name": "dongwankun/dongwankun",
     "description": "laravel",
-    "type": "project",
+    "type": "require",
     "license": "MIT",
     "authors": [
         {
